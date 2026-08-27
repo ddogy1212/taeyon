@@ -1,6 +1,3 @@
-# YouTube Redirect Site
-
-GitHub Pages용 간단한 사이트입니다.
-
-버튼을 누르면 사이트 내부에서 영상을 재생하지 않고,
-각 YouTube 영상 페이지로 바로 이동합니다.
+# Poster Landing Page
+GitHub Pages용 모바일 우선 랜딩페이지입니다.
+압축을 풀고 index.html을 저장소 최상단에 올린 뒤 Settings → Pages에서 main / root로 배포하세요.
